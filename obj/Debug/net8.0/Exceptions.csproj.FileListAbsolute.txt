@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\bin\Debug\net8.0\Exceptions.exe
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
